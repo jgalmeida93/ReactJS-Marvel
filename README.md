@@ -3,7 +3,7 @@
 Projeto para estudo de consumo de API.
 
 ### Instruções para rodar o projeto
-Clone o projeto e abra um terminal na pasta do mesmo. Em seguida dê o comando `yarn install` e depois `yarn start`.
+Clone o projeto e abra um terminal na pasta do mesmo. Em seguida execute o comando `yarn install` e depois `yarn start`.
 
 
 #### Ferramentas utilizadas
