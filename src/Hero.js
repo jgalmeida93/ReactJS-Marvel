@@ -34,7 +34,7 @@ class Hero extends Component {
     let arrImage = [];
 
     fetch(
-      `http://gateway.marvel.com/v1/public/characters?ts=${timeStamp}&apikey=${apiKey}&hash=${md5}&limit=30`
+      `https://gateway.marvel.com/v1/public/characters?ts=${timeStamp}&apikey=${apiKey}&hash=${md5}&limit=30`
     )
       .then(response => {
         return response.json();
